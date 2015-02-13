@@ -1,0 +1,2 @@
+* Welcome!
+  These are the i2c utilities we currently use in the dimmer firmware.
